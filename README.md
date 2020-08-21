@@ -14,7 +14,7 @@
     
 - Ex. Charger Locker
     |Locker Slot|Type|Price per 30 mins.|
-    |-|-|-|-|
+    |-|-|-|
     |#1|Fast Charge|15|
     |#2|Fast Charge|15|
     |#3|Fast Charge|15|
