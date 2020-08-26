@@ -11,12 +11,12 @@ https://drive.google.com/file/d/1-wnTICW8oZNPMWkOxhC_W1-3GyktIUxv/view?usp=shari
  - ใช้ nodejs+expressjs database firebase
  - ไปที่ path /code/backend/functions 
  - ติดตั้ง package npm i
--npm run serve
+ - npm run serve
 
 # frontend
 - ใช้ vuejs+vuetify
 - ไปที่ path /code/frontend
 - ติดตั้ง package npm i
--npm run serve
+ - npm run serve
 
 # Deploy : Firebase Hosting
